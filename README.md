@@ -1,9 +1,20 @@
 ## Hi, I'm Sai Jahnavi Kolli 👋
 
-Data Engineer at **GM Financial**, building the pipelines behind auto-loan and credit-risk analytics. I work across batch and streaming: Spark, Kafka, dbt, Snowflake, Airflow and Azure, with a focus on data that is tested, explainable and on time.
+I'm a data engineer who builds pipelines people can trust: batch and streaming ingestion, warehouse models, and the tests and checks that keep data correct as it changes. I like turning messy source data into clean, well-modeled tables that analysts and applications can rely on.
 
-📍 Boston, MA · open to Data Engineer roles across the US  
-🌐 [saijahnavikolli.com](https://saijahnavikolli.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kolli-sai-jahnavi) · ✉️ kollijahnavi07@gmail.com
+**What I can do**
+- Build batch and real-time pipelines with Spark, Kafka and Python
+- Design incremental loads, CDC and SCD Type 2 history in Snowflake and dbt
+- Ingest from APIs, databases and files into AWS and Azure, with infrastructure as code
+- Add data quality checks, contracts and CI so pipelines fail loudly instead of silently
+
+**What I'm interested in**
+- Open lakehouse formats (Apache Iceberg, Delta Lake)
+- Data infrastructure for AI: retrieval pipelines, embeddings and evaluation
+- Streaming systems and exactly-once processing
+- Financial and automotive data
+
+📫 **Contact:** kollijahnavi07@gmail.com · 🌐 [saijahnavikolli.com](https://saijahnavikolli.com)
 
 ### Projects
 
