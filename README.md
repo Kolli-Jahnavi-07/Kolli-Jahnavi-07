@@ -14,7 +14,7 @@ I'm a data engineer who builds pipelines people can trust: batch and streaming i
 - Streaming systems and exactly-once processing
 - Financial and automotive data
 
-📫 **Contact:** kollijahnavi07@gmail.com · 🌐 [saijahnavikolli.com](https://saijahnavikolli.com)
+📫 **Contact:** kollijahnavi07@gmail.com
 
 ### Projects
 
