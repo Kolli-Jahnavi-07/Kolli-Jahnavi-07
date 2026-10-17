@@ -2,7 +2,7 @@
 
 Data Engineer at **GM Financial**, building the pipelines behind auto-loan and credit-risk analytics. I work across batch and streaming: Spark, Kafka, dbt, Snowflake, Airflow and Azure, with a focus on data that is tested, explainable and on time.
 
-📍 Boston, MA · open to Data Engineer roles across the US
+📍 Boston, MA · open to Data Engineer roles across the US  
 🌐 [saijahnavikolli.com](https://saijahnavikolli.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kolli-sai-jahnavi) · ✉️ kollijahnavi07@gmail.com
 
 ### Projects
@@ -20,8 +20,8 @@ Data Engineer at **GM Financial**, building the pipelines behind auto-loan and c
 
 ### Toolbox
 
-**Languages:** Python, SQL, PySpark, TypeScript
-**Processing:** Apache Spark, Spark Structured Streaming, Kafka, dbt, DuckDB, Apache Iceberg
-**Cloud and warehouse:** AWS (S3, IAM, Glue), Azure (Data Factory, Databricks, Synapse, ADLS Gen2), Snowflake (Snowpipe, Streams, Tasks), Delta Lake
-**Orchestration and DevOps:** Airflow, Azure Data Factory, Terraform, GitHub Actions, Docker
-**AI data:** RAG pipelines, embeddings, vector and hybrid search, retrieval evaluation
+- **Languages:** Python, SQL, PySpark, TypeScript
+- **Processing:** Apache Spark, Spark Structured Streaming, Kafka, dbt, DuckDB, Apache Iceberg
+- **Cloud and warehouse:** AWS (S3, IAM, Glue), Azure (Data Factory, Databricks, Synapse, ADLS Gen2), Snowflake (Snowpipe, Streams, Tasks), Delta Lake
+- **Orchestration and DevOps:** Airflow, Azure Data Factory, Terraform, GitHub Actions, Docker
+- **AI data:** RAG pipelines, embeddings, vector and hybrid search, retrieval evaluation
